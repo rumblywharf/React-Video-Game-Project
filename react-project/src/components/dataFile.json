@@ -1,0 +1,11 @@
+[
+  {"System":"Playstation 4", "Game":"Ghost of Tsushima", "Price":49.99},
+  {"System":"PC", "Game":"Valheim", "Price":22.79},
+  {"System":"Playstation 5", "Game":"Call of Duty Black Ops: Cold War", "Price":79.99},
+  {"System":"Xbox One", "Game":"Halo: The Master Chief Collection", "Price":49.99},
+  {"System":"Xbox Series X", "Game":"Forza Horizon 4", "Price":79.99},
+  {"System":"Nintendo Switch", "Game":"Super Smash Bros. Ultimate", "Price":79.99},
+  {"System":"Nintendo Switch", "Game":"The Legend of Zelda: Breath of the Wild", "Price":79.99},
+  {"System":"Playstation 4", "Game":"Overcooked 2", "Price":29.99},
+  {"System":"PC", "Game":"Phasmophobia", "Price":15.49}
+]
